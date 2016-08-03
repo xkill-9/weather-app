@@ -1,6 +1,6 @@
-# React + Webpack + Babel
+# Weather App
 
-Simple boilerplate for a React development environment using Webpack and Babel, it also uses ESLint and the [AirBnB linting rules](https://github.com/airbnb/javascript/tree/master/react).
+Small application for understanding the concepts behind React and Redux.
 
 ## Install
 Install all the dependencies by running:

@@ -1,10 +1,10 @@
 {
-  "name": "react-webpack",
+  "name": "weather-app",
   "version": "1.0.0",
-  "description": "Boilerplate for a ReactJS development environment using Webpack and Babel",
+  "description": "Small weather app to get the concepts behind react and redux",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xkill-9/react-webpack.git"
+    "url": "https://github.com/xkill-9/weather-app.git"
   },
   "main": "webpack.config.js",
   "scripts": {
